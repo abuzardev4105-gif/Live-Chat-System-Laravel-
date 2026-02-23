@@ -1,1 +1,2 @@
-# Live-Chat-System-Laravel-
+Real-Time Live Chat System (Laravel + Reverb)
+A feature-rich, real-time live chat application built with Laravel and powered by Laravel Reverb for WebSocket communication. This system enables seamless instant messaging between users with zero page refreshes, leveraging Reverb's high-performance WebSocket server for true real-time functionality. The project demonstrates advanced Laravel concepts including event broadcasting, database notifications, and eloquent relationships, while showcasing the implementation of modern WebSocket technology for interactive user experiences.
